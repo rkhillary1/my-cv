@@ -1,0 +1,43 @@
+
+body{
+    max-width:  rem;
+    margin: 5 auto;
+    padding: 2 rem, 1.2 rem;
+    font: Courier, sans-serif;
+    color: rgb(15, 15, 15);
+}
+header{
+    border-bottom: 2px, solid#1f4e79;
+}
+h1{
+    margin: 0;
+    font-size: 2.9rem;
+}
+h2{
+    margin: 0.25rem,00.75rem;
+    font-size: 1.15rem;
+    font-weight: normal;
+    color: #1f4e79;
+}
+address{
+    font-style: normal;
+    color: darkturquoise;
+}
+h3{
+    margin: 00 0.6rem;
+    padding-bottom: 0,2rem;
+    font-size: 25rem;
+    color: #1d2430;
+    border-bottom: 1px solid grey;
+
+}
+h4{
+    margin: 1rem,0,0.1rem;
+    font-size: 1.05rem;
+}
+p{ margin: 0,0,0.5rem;}
+ul{margin: 0,25rem,0,0;
+  padding-left: 1.2rem;  
+}
+a{color: #1f4e7d;
+}
